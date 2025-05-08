@@ -152,10 +152,12 @@ footer {
   font-size: 12px;
 }
 
-#FreeAccount {
+#FreeAccount,
+#HelpCenter {
   color: orangered;
 }
 
-#FreeAccount:hover {
+#FreeAccount:hover,
+#HelpCenter:hover {
   cursor: pointer;
 }
